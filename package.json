@@ -37,7 +37,7 @@
     "pend": "~1.2.0",
     "mkdirp": "~0.5.0",
     "fd-slicer": "~1.0.0",
-    "mime": "~1.2.11",
+    "mime": "~2.4.4",
     "streamsink": "~1.2.0",
     "fileupload":"~1.0.0",
     "multiparty":"~4.1.2",
